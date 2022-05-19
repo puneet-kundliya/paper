@@ -91,9 +91,9 @@ Java, multi-user support access, quickly visit indexing
 time and can cross-platform use. A simple way to conceptualize the relationship between Solr, Elasticsearch and Lucene is that of a car and its engine. Similarly, Lucene is a programmatic library which you can't use as-is, whereas Solr and elesticsearch is a complete application which you can use out-of-box.
 
 ## Reference
-1. https://lucene.apache.org/core/
-2. https://www.knowi.com/blog/what-is-elastic-search/
-3. https://sematext.com/guides/solr/
-4. https://www.nextbrick.com/blog/differences-between-apache-solr-and-apache-lucene/
-5. https://medium.com/javarevisited/deep-dive-into-elastic-search-702e501762b
-6. https://medium.com/techshots/introduction-to-apache-solr-d3e734a5c346
+- https://lucene.apache.org/core/
+- https://www.knowi.com/blog/what-is-elastic-search/
+- https://sematext.com/guides/solr/
+- https://www.nextbrick.com/blog/differences-between-apache-solr-and-apache-lucene/
+- https://medium.com/javarevisited/deep-dive-into-elastic-search-702e501762b
+- https://medium.com/techshots/introduction-to-apache-solr-d3e734a5c346
