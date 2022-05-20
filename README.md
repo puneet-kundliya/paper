@@ -88,7 +88,7 @@ Solr and Elasticsearch are similar in many ways. They are abstractions built on 
 
 Lucene is a full text indexing engine toolkit written in
 Java, multi-user support access, quickly visit indexing
-time and can cross-platform use. A simple way to conceptualize the relationship between Solr, Elasticsearch and Lucene is that of a car and its engine. Similarly, Lucene is a programmatic library which you can't use as-is, whereas Solr and elesticsearch is a complete application which you can use out-of-box.
+time and can cross-platform use. A simple way to conceptualize the relationship between Solr, Elasticsearch is that both are based on Apache Lucene. Similarly, Lucene is a programmatic library which you can't use as-is, whereas Solr and elesticsearch is a complete application which you can use out-of-box.
 
 ## Reference
 - https://lucene.apache.org/core/
